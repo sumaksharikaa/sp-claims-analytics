@@ -1,0 +1,11 @@
+drug_id,brand_name,generic_name,therapy_area,manufacturer,avg_monthly_cost_usd
+DRG001,Humira,adalimumab,Immunology,AbbVie,6500
+DRG002,Enbrel,etanercept,Immunology,Pfizer,5800
+DRG003,Stelara,ustekinumab,Dermatology,Janssen,18000
+DRG004,Keytruda,pembrolizumab,Oncology,Merck,22000
+DRG005,Revlimid,lenalidomide,Oncology,BMS,19000
+DRG006,Copaxone,glatiramer,Neurology,Teva,7200
+DRG007,Tecfidera,dimethyl fumarate,Neurology,Biogen,8100
+DRG008,Harvoni,ledipasvir,Hepatology,Gilead,31000
+DRG009,Truvada,emtricitabine,Infectious Dis.,Gilead,2700
+DRG010,Otezla,apremilast,Dermatology,Amgen,4100
