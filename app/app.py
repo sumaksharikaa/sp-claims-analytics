@@ -286,7 +286,7 @@ with tab5:
 
     col1, col2 = st.columns([2, 1])
     with col1:
-        st.dataframe(dq.style.applymap(
+        st.dataframe(dq.style.map(
             lambda v: "color: green" if "Pass" in str(v) else "color: orange",
             subset=["Status"]
         ), use_container_width=True, hide_index=True)
