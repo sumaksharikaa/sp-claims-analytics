@@ -145,4 +145,4 @@ Synthetic dataset generated with realistic specialty pharmacy patterns:
 
 ---
 
-*Built by [Sumaksharika Nainavarapu](https://sumaksharika.com) · B.S. Pharmacy · M.S. Health Informatics & Analytics*
+*Built by [Sumaksharika Nainavarapu](https://github.com/sumaksharikaa)*
